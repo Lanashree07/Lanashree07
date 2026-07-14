@@ -107,4 +107,7 @@ lananaya30@gmail.com
 
 ---
 
+🚀 "Every expert was once a beginner who never gave up."
+💻 Learning • Building • Growing Every Day
+
 ⭐ Thank you for visiting my profile!
