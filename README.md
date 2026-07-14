@@ -14,16 +14,17 @@
 
 🎓 Computer Science and Engineering Student
 
-💡 Passionate about solving real-world problems through software.
+💻 Passionate about building responsive websites, solving real-world problems, and continuously learning modern technologies.
 
-🌱 Currently learning
+🌱 **Currently learning**
 - Java
 - React
+- node js
 - Data Analytics
 - SQL
 - Python
 
-🚀 Interested in
+🚀 **Interested in**
 - Software Development
 - Web Development
 - Data Analytics
@@ -57,23 +58,31 @@ Git • GitHub • VS Code • Power BI • Excel • MySQL
 
 # 🚀 Featured Projects
 
-## 🌐 Accessible Portfolio Website
-Modern responsive portfolio built using HTML5, CSS3 and JavaScript.
+### 🌐 Accessible Portfolio Website
+A responsive portfolio built with HTML5, CSS3 and JavaScript following accessibility and SEO best practices.
 
-## ☁ Weather Dashboard
-Real-time weather application using API integration.
+🔗 https://lanashree07.github.io/Accessible-portfolio-website/
 
-## ✅ TaskFlow Todo App
-Task management application with Local Storage.
+---
 
-## 🛒 Cartify
-React E-commerce website with shopping cart.
+### ☁️ Weather Dashboard
+A responsive weather application using API integration with dynamic weather information.
 
-## 📊 Netflix Data Analytics
-Exploratory Data Analysis using Python, Pandas and Matplotlib.
+🔗 https://lanashree07.github.io/Weather-Dashboard/
 
-## 📈 Netflix Dashboard
-Interactive visualizations for Netflix dataset.
+---
+
+### ✅ TaskFlow Todo App
+Task management application with CRUD operations and Local Storage support.
+
+🔗 https://lanashree07.github.io/TaskFlow-Todo-App/
+
+---
+
+### 🛒 Cartify
+A React-based E-Commerce website featuring shopping cart functionality and responsive UI.
+
+🔗 https://lanashree07.github.io/Cartify/
 
 ---
 
@@ -87,31 +96,41 @@ Interactive visualizations for Netflix dataset.
 
 ---
 
-## 🏆 Certifications
+# 🎓 Certifications
 
-✔ NPTEL – Industry 4.0 & IoT
+- ✅ NPTEL – Introduction to Industry 4.0 & IoT
+- ✅ Data Analytics Internship
+- ✅ UI/UX Internship
+- ✅ Advanced MS Excel & Power BI
+- ✅ Git & GitHub Workshop
+- ✅ ASEAN AI Technical Lecture Series
 
-✔ Data Analytics Internship
-
-✔ UI/UX Internship
-
-✔ Advanced Excel & Power BI
-
-✔ Git & GitHub Workshop
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect With Me
 
-💼 LinkedIn:
-https://linkedin.com/in/lana-shree-ganesan
+<p align="center">
 
-📧 Email:
-lananaya30@gmail.com
+<a href="https://linkedin.com/in/lana-shree-ganesan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lananaya30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-🚀 "Every expert was once a beginner who never gave up."
+# 💡 Quote
+
+**🚀 "Every expert was once a beginner who never gave up."**
 💻 Learning • Building • Growing Every Day
 
-⭐ Thank you for visiting my profile!
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Have a great day! ⭐
+</p>
