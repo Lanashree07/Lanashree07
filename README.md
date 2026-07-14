@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lana Shree
+# Hi there 👋 I'm Lana Shree Ganesan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;Web+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.E. Computer Science and Engineering Student
+🎓 Computer Science and Engineering Student
 
 💡 Passionate about solving real-world problems through software.
 
