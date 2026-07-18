@@ -48,102 +48,33 @@
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
-</p>
-
-- Java
-- Python
-- JavaScript
-- C
-- HTML5
-- CSS3
-
----
-
-## ⚛️ Frontend Development
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,mysql" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Responsive Web Design
-- Bootstrap
-
----
-
-## 🚀 Backend Development
+### 🚀 Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-- Node.js
-- Express.js
-- REST API Basics
-
----
-
-## 🗄️ Databases
+### 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-- MySQL
-- SQL Queries
-- Database Design Basics
-
----
-
-## 📊 Data Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 📊 Data Analytics
 
 - Pandas
 - NumPy
 - Matplotlib
-- Microsoft Excel
 - Power BI
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
-</p>
-
-- Git
-- GitHub
-- VS Code
-- Figma
-- npm
 - Microsoft Excel
-- Power BI
-
----
-
-## 🌟 Soft Skills
-
-- Problem Solving
-- Team Collaboration
-- Communication
-- Time Management
-- Continuous Learning
-- Adaptability
-- Analytical Thinking
-
 ---
 
 # 🚀 Featured Projects
