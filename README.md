@@ -86,13 +86,33 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Lanashree07&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lanashree07&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lanashree07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lanashree07&show_icons=true&theme=default&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lanashree07&show_icons=true&hide_border=true"/>
+</picture>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanashree07&layout=compact&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Lanashree07&theme=github-dark-blue&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Lanashree07&theme=default&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Lanashree07&hide_border=true"/>
+</picture>
+
+</p>
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanashree07&layout=compact&theme=github_dark&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanashree07&layout=compact&theme=default&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanashree07&layout=compact&hide_border=true"/>
+</picture>
+
+</p>
 
 ---
 
@@ -104,7 +124,6 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 - ✅ Advanced MS Excel & Power BI
 - ✅ Git & GitHub Workshop
 - ✅ ASEAN AI Technical Lecture Series
-
 
 ---
 
