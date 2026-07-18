@@ -12,47 +12,137 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science and Engineering Student
+🎓 **B.E. Computer Science and Engineering** student passionate about creating impactful software solutions and continuously improving my technical skills.
 
-💻 Passionate about building responsive websites, solving real-world problems, and continuously learning modern technologies.
+💡 I enjoy transforming ideas into responsive web applications, exploring data to uncover meaningful insights, and building projects that solve real-world problems.
 
-🌱 **Currently learning**
-- Java
-- React
-- node js
-- Data Analytics
-- SQL
-- Python
+🌱 **Currently Learning**
+- Java & Object-Oriented Programming (OOP)
+- React.js
+- Node.js & Express.js
+- SQL & Database Management
+- Data Analytics with Python
+- REST APIs
+- Git & GitHub Best Practices
 
-🚀 **Interested in**
+🎯 **Career Goals**
 - Software Development
-- Web Development
+- Full Stack Web Development
+- Java Development
 - Data Analytics
+- Cloud & Modern Web Technologies
+
+✨ **What I'm Working On**
+- Building responsive full-stack web applications
+- Improving problem-solving and programming skills
+- Developing real-world portfolio projects
+- Learning industry-standard development workflows
+
+📌 **Interests**
+- Software Engineering
+- Frontend Development
+- Backend Development
 - UI/UX Design
+- Data Visualization
+- Open Source Learning
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Technical Skills
 
-### Languages
+## 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+- Java
+- Python
+- JavaScript
+- C
+- HTML5
+- CSS3
 
 ---
 
-## ⚙️ Tools
+## ⚛️ Frontend Development
 
-Git • GitHub • VS Code • Power BI • Excel • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Responsive Web Design
+- Bootstrap
+
+---
+
+## 🚀 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- REST API Basics
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+- SQL Queries
+- Database Design Basics
+
+---
+
+## 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas
+- NumPy
+- Matplotlib
+- Microsoft Excel
+- Power BI
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- npm
+- Microsoft Excel
+- Power BI
+
+---
+
+## 🌟 Soft Skills
+
+- Problem Solving
+- Team Collaboration
+- Communication
+- Time Management
+- Continuous Learning
+- Adaptability
+- Analytical Thinking
 
 ---
 
