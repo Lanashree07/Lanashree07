@@ -12,39 +12,28 @@
 
 ## 👩‍💻 About Me
 
-🎓 **B.E. Computer Science and Engineering** student passionate about creating impactful software solutions and continuously improving my technical skills.
+🎓 Final-year Computer Science and Engineering student passionate about building impactful software and continuously improving my technical skills.
 
-💡 I enjoy transforming ideas into responsive web applications, exploring data to uncover meaningful insights, and building projects that solve real-world problems.
+💡 I enjoy transforming ideas into responsive web applications and solving real-world problems through clean and efficient code.
 
 🌱 **Currently Learning**
-- Java & Object-Oriented Programming (OOP)
+- Java & Object-Oriented Programming
 - React.js
 - Node.js & Express.js
-- SQL & Database Management
-- Data Analytics with Python
-- REST APIs
-- Git & GitHub Best Practices
+- SQL & Database Design
+- Python for Data Analytics
+- REST APIs & Git/GitHub
 
-🎯 **Career Goals**
+🎯 **Career Interests**
 - Software Development
 - Full Stack Web Development
-- Java Development
-- Data Analytics
-- Cloud & Modern Web Technologies
-
-✨ **What I'm Working On**
-- Building responsive full-stack web applications
-- Improving problem-solving and programming skills
-- Developing real-world portfolio projects
-- Learning industry-standard development workflows
-
-📌 **Interests**
-- Software Engineering
 - Frontend Development
 - Backend Development
+- Data Analytics
 - UI/UX Design
-- Data Visualization
-- Open Source Learning
+
+⚡ **Fun Fact**
+I enjoy learning new technologies by building real-world projects and sharing them on GitHub.
 
 ---
 
