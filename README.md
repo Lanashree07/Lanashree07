@@ -1,7 +1,7 @@
 # Hi👋, I'm Lana Shree Ganesan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;Web+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Computer+Science+Engineering+Student;%F0%9F%9A%80+Aspiring+Software+Developer;%F0%9F%8C%90+Web+Developer;%F0%9F%93%8A+Data+Analytics+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
