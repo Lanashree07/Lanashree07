@@ -37,7 +37,34 @@ I enjoy learning new technologies by building real-world projects and sharing th
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,python,react,nodejs,js,html,css,mysql,git,github,vscode,figma" />
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,mysql" />
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### 📊 Data Analytics
+
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Microsoft Excel
+
 ---
 
 # 🚀 Featured Projects
