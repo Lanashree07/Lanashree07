@@ -132,7 +132,7 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lanashree07&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lanashree07&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
