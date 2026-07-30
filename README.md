@@ -153,7 +153,8 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 # 💡 Quote
 
 **🚀 "Every expert was once a beginner who never gave up."**
-💻 Learning • Building • Growing Every Day
+
+**💻 Learning • Building • Growing Every Day**
 
 ---
 
