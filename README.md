@@ -1,7 +1,5 @@
-# Hi👋, I'm Lana Shree Ganesan
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Lana+Shree+Ganesan;Software+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi👋+I'm+Lana+Shree+Ganesan;Computer+Science+Engineering+Student;Aspiring+Software+Developer;Web+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things;Turning+Ideas+into+Responsive+User+Friendly+Impactful+Applications;"/>
 </p>
 
 <p align="center">
