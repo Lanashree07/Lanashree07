@@ -123,6 +123,20 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanashree07&theme=github-compact"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lanashree07&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
 # 🎓 Certifications
 
 - ✅ NPTEL – Introduction to Industry 4.0 & IoT
