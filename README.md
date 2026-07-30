@@ -151,10 +151,10 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 ---
 
 # 💡 Quote
-<p align="center">
+
 **🚀 "Every expert was once a beginner who never gave up."**
 💻 Learning • Building • Growing Every Day
-</p>
+
 ---
 
 <p align="center">
