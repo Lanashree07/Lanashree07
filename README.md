@@ -8,6 +8,17 @@
   <img src="https://komarev.com/ghpvc/?username=Lanashree07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+
+<p align="center">
+<a href="https://linkedin.com/in/lana-shree-ganesan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lananaya30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -127,12 +138,6 @@ A React-based E-Commerce website featuring shopping cart functionality and respo
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanashree07&theme=github-compact"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lanashree07&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
